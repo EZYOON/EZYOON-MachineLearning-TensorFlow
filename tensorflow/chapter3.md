@@ -1,5 +1,6 @@
 # Chapter 3
 
+
 ## ch3.1
 
 ### 텐서와 그래프 실행
@@ -64,6 +65,7 @@ print(sess.run([a,b,c]))
 ```python
 sess.close()
 ```
+
 
 ## ch3.2
 
@@ -148,6 +150,7 @@ print(sess.run(expr,feed_dict={X: x_data}))
 ```python
 sess.close()
 ```
+
 
 ## ch3.3
 
