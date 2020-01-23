@@ -1,6 +1,5 @@
 # Chapter 3
 
-------
 
 ## ch3.1
 
@@ -67,7 +66,6 @@ print(sess.run([a,b,c]))
 sess.close()
 ```
 
------
 
 ## ch3.2
 
@@ -153,7 +151,6 @@ print(sess.run(expr,feed_dict={X: x_data}))
 sess.close()
 ```
 
-----
 
 ## ch3.3
 
